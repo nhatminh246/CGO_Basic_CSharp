@@ -6,6 +6,6 @@ class Program
         string Name;
         Console.WriteLine("Enter your name:  ");
         Name = Console.ReadLine();
-        Console.WriteLine("Hello: " + Name+"L");
+        Console.WriteLine("Hello: " + Name);
     }
 }
