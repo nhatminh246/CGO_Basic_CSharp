@@ -1,0 +1,15 @@
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\obj\Debug\net7.0\UngDungChuyenDoiTienTe.csproj.AssemblyReference.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\obj\Debug\net7.0\UngDungChuyenDoiTienTe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\obj\Debug\net7.0\UngDungChuyenDoiTienTe.AssemblyInfoInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\obj\Debug\net7.0\UngDungChuyenDoiTienTe.AssemblyInfo.cs
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\obj\Debug\net7.0\UngDungChuyenDoiTienTe.csproj.CoreCompileInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\bin\Debug\net7.0\UngDungChuyenDoiTienTe.exe
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\bin\Debug\net7.0\UngDungChuyenDoiTienTe.deps.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\bin\Debug\net7.0\UngDungChuyenDoiTienTe.runtimeconfig.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\bin\Debug\net7.0\UngDungChuyenDoiTienTe.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\bin\Debug\net7.0\UngDungChuyenDoiTienTe.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\obj\Debug\net7.0\UngDungChuyenDoiTienTe.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\obj\Debug\net7.0\refint\UngDungChuyenDoiTienTe.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\obj\Debug\net7.0\UngDungChuyenDoiTienTe.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\obj\Debug\net7.0\UngDungChuyenDoiTienTe.genruntimeconfig.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi01\UngDungChuyenDoiTienTe\obj\Debug\net7.0\ref\UngDungChuyenDoiTienTe.dll
