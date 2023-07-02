@@ -7,7 +7,7 @@ class Program
         bool isok = true;
         string s_hundered = "", s_tens = "", s_ones = "", answer, mix="",s_num ;
         int hundered = 0, tens = 0, ones = 0, num;
-        Console.WriteLine("Enter your number: ");
+        Console.Write("Enter your number: ");
         num = Int32.Parse(Console.ReadLine());
         // lay do dai cua xau va lay cac gia tri hang don vi, chuc, tram
         answer = (num<0)? "minus ": "";
