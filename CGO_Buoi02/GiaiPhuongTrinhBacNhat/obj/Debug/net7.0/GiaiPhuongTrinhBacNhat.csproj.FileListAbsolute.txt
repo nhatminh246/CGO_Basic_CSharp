@@ -1,0 +1,15 @@
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\bin\Debug\net7.0\GiaiPhuongTrinhBacNhat.exe
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\bin\Debug\net7.0\GiaiPhuongTrinhBacNhat.deps.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\bin\Debug\net7.0\GiaiPhuongTrinhBacNhat.runtimeconfig.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\bin\Debug\net7.0\GiaiPhuongTrinhBacNhat.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\bin\Debug\net7.0\GiaiPhuongTrinhBacNhat.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\obj\Debug\net7.0\GiaiPhuongTrinhBacNhat.csproj.AssemblyReference.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\obj\Debug\net7.0\GiaiPhuongTrinhBacNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\obj\Debug\net7.0\GiaiPhuongTrinhBacNhat.AssemblyInfoInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\obj\Debug\net7.0\GiaiPhuongTrinhBacNhat.AssemblyInfo.cs
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\obj\Debug\net7.0\GiaiPhuongTrinhBacNhat.csproj.CoreCompileInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\obj\Debug\net7.0\GiaiPhuongTrinhBacNhat.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\obj\Debug\net7.0\refint\GiaiPhuongTrinhBacNhat.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\obj\Debug\net7.0\GiaiPhuongTrinhBacNhat.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\obj\Debug\net7.0\GiaiPhuongTrinhBacNhat.genruntimeconfig.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi02\GiaiPhuongTrinhBacNhat\obj\Debug\net7.0\ref\GiaiPhuongTrinhBacNhat.dll
