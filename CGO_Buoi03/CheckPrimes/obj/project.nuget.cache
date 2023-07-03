@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vj6zPemTRNyqrw1CeMx98zDzXGuwvKyOE0REcNzF3V5v7vtMedBfz+/d/2qZ+UWm8TonEQgKnK9TO/6QpkmoqA==",
+  "dgSpecHash": "7EZcrnzn8hpLJPWXX2/4xT6ck1Nj3NRg3vF7vxRXNo4WSlv12YkFsViR86l5lnSj6qRU2Qi0NEKqImgFTrA0kw==",
   "success": true,
-  "projectFilePath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\CheckPrimes\\CheckPrimes.csproj",
+  "projectFilePath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\CheckPrimes\\CheckPrimes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

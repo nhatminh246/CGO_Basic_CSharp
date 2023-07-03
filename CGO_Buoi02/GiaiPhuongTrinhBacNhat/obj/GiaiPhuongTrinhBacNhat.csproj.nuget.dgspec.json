@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\GiaiPhuongTrinhBacNhat\\GiaiPhuongTrinhBacNhat.csproj": {}
+    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\GiaiPhuongTrinhBacNhat\\GiaiPhuongTrinhBacNhat.csproj": {}
   },
   "projects": {
-    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\GiaiPhuongTrinhBacNhat\\GiaiPhuongTrinhBacNhat.csproj": {
+    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\GiaiPhuongTrinhBacNhat\\GiaiPhuongTrinhBacNhat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\GiaiPhuongTrinhBacNhat\\GiaiPhuongTrinhBacNhat.csproj",
+        "projectUniqueName": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\GiaiPhuongTrinhBacNhat\\GiaiPhuongTrinhBacNhat.csproj",
         "projectName": "GiaiPhuongTrinhBacNhat",
-        "projectPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\GiaiPhuongTrinhBacNhat\\GiaiPhuongTrinhBacNhat.csproj",
+        "projectPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\GiaiPhuongTrinhBacNhat\\GiaiPhuongTrinhBacNhat.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\GiaiPhuongTrinhBacNhat\\obj\\",
+        "outputPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\GiaiPhuongTrinhBacNhat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config"

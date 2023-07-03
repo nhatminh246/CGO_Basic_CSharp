@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiThoiGianCuaHeThong\\HienThiThoiGianCuaHeThong.csproj": {}
+    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiThoiGianCuaHeThong\\HienThiThoiGianCuaHeThong.csproj": {}
   },
   "projects": {
-    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiThoiGianCuaHeThong\\HienThiThoiGianCuaHeThong.csproj": {
+    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiThoiGianCuaHeThong\\HienThiThoiGianCuaHeThong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiThoiGianCuaHeThong\\HienThiThoiGianCuaHeThong.csproj",
+        "projectUniqueName": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiThoiGianCuaHeThong\\HienThiThoiGianCuaHeThong.csproj",
         "projectName": "HienThiThoiGianCuaHeThong",
-        "projectPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiThoiGianCuaHeThong\\HienThiThoiGianCuaHeThong.csproj",
+        "projectPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiThoiGianCuaHeThong\\HienThiThoiGianCuaHeThong.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiThoiGianCuaHeThong\\obj\\",
+        "outputPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiThoiGianCuaHeThong\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config"

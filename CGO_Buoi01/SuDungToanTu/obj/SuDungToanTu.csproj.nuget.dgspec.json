@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\SuDungToanTu\\SuDungToanTu.csproj": {}
+    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\SuDungToanTu\\SuDungToanTu.csproj": {}
   },
   "projects": {
-    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\SuDungToanTu\\SuDungToanTu.csproj": {
+    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\SuDungToanTu\\SuDungToanTu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\SuDungToanTu\\SuDungToanTu.csproj",
+        "projectUniqueName": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\SuDungToanTu\\SuDungToanTu.csproj",
         "projectName": "SuDungToanTu",
-        "projectPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\SuDungToanTu\\SuDungToanTu.csproj",
+        "projectPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\SuDungToanTu\\SuDungToanTu.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\SuDungToanTu\\obj\\",
+        "outputPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\SuDungToanTu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config"

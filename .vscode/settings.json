@@ -1,2 +1,3 @@
 {
+    "dotnet.defaultSolution": "CGO_Basic_CSharp.sln"
 }

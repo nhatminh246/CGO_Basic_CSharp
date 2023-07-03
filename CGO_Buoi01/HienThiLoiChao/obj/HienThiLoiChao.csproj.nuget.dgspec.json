@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiLoiChao\\HienThiLoiChao.csproj": {}
+    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiLoiChao\\HienThiLoiChao.csproj": {}
   },
   "projects": {
-    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiLoiChao\\HienThiLoiChao.csproj": {
+    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiLoiChao\\HienThiLoiChao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiLoiChao\\HienThiLoiChao.csproj",
+        "projectUniqueName": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiLoiChao\\HienThiLoiChao.csproj",
         "projectName": "HienThiLoiChao",
-        "projectPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiLoiChao\\HienThiLoiChao.csproj",
+        "projectPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiLoiChao\\HienThiLoiChao.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiLoiChao\\obj\\",
+        "outputPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi01\\HienThiLoiChao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config"
