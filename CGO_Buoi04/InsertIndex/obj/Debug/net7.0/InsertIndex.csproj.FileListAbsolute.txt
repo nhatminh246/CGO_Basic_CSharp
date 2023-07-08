@@ -1,0 +1,15 @@
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\obj\Debug\net7.0\InsertIndex.csproj.AssemblyReference.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\obj\Debug\net7.0\InsertIndex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\obj\Debug\net7.0\InsertIndex.AssemblyInfoInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\obj\Debug\net7.0\InsertIndex.AssemblyInfo.cs
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\obj\Debug\net7.0\InsertIndex.csproj.CoreCompileInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\bin\Debug\net7.0\InsertIndex.exe
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\bin\Debug\net7.0\InsertIndex.deps.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\bin\Debug\net7.0\InsertIndex.runtimeconfig.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\bin\Debug\net7.0\InsertIndex.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\bin\Debug\net7.0\InsertIndex.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\obj\Debug\net7.0\InsertIndex.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\obj\Debug\net7.0\refint\InsertIndex.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\obj\Debug\net7.0\InsertIndex.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\obj\Debug\net7.0\InsertIndex.genruntimeconfig.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\InsertIndex\obj\Debug\net7.0\ref\InsertIndex.dll
