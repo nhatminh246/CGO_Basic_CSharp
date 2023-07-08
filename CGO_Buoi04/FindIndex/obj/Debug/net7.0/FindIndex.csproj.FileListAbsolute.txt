@@ -1,0 +1,15 @@
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\obj\Debug\net7.0\FindIndex.csproj.AssemblyReference.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\obj\Debug\net7.0\FindIndex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\obj\Debug\net7.0\FindIndex.AssemblyInfoInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\obj\Debug\net7.0\FindIndex.AssemblyInfo.cs
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\obj\Debug\net7.0\FindIndex.csproj.CoreCompileInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\bin\Debug\net7.0\FindIndex.exe
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\bin\Debug\net7.0\FindIndex.deps.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\bin\Debug\net7.0\FindIndex.runtimeconfig.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\bin\Debug\net7.0\FindIndex.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\bin\Debug\net7.0\FindIndex.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\obj\Debug\net7.0\FindIndex.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\obj\Debug\net7.0\refint\FindIndex.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\obj\Debug\net7.0\FindIndex.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\obj\Debug\net7.0\FindIndex.genruntimeconfig.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi04\FindIndex\obj\Debug\net7.0\ref\FindIndex.dll
