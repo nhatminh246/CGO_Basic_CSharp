@@ -19,5 +19,6 @@ class Program
             }
         }
         Console.WriteLine("Phan tu co gia tri lon nhat la {0} va co vi tri la [{1},{2}] ",max,maxi,maxj);
+        Console.WriteLine(arr[-1][-1]);
     }
 }
