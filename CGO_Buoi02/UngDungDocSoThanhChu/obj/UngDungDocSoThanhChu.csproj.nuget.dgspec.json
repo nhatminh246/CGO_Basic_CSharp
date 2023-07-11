@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\UngDungDocSoThanhChu\\UngDungDocSoThanhChu.csproj": {}
+    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\UngDungDocSoThanhChu\\UngDungDocSoThanhChu.csproj": {}
   },
   "projects": {
-    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\UngDungDocSoThanhChu\\UngDungDocSoThanhChu.csproj": {
+    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\UngDungDocSoThanhChu\\UngDungDocSoThanhChu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\UngDungDocSoThanhChu\\UngDungDocSoThanhChu.csproj",
+        "projectUniqueName": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\UngDungDocSoThanhChu\\UngDungDocSoThanhChu.csproj",
         "projectName": "UngDungDocSoThanhChu",
-        "projectPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\UngDungDocSoThanhChu\\UngDungDocSoThanhChu.csproj",
+        "projectPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\UngDungDocSoThanhChu\\UngDungDocSoThanhChu.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\UngDungDocSoThanhChu\\obj\\",
+        "outputPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi02\\UngDungDocSoThanhChu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",

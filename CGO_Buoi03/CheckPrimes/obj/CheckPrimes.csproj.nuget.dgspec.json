@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\CheckPrimes\\CheckPrimes.csproj": {}
+    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\CheckPrimes\\CheckPrimes.csproj": {}
   },
   "projects": {
-    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\CheckPrimes\\CheckPrimes.csproj": {
+    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\CheckPrimes\\CheckPrimes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\CheckPrimes\\CheckPrimes.csproj",
+        "projectUniqueName": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\CheckPrimes\\CheckPrimes.csproj",
         "projectName": "CheckPrimes",
-        "projectPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\CheckPrimes\\CheckPrimes.csproj",
+        "projectPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\CheckPrimes\\CheckPrimes.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\CheckPrimes\\obj\\",
+        "outputPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\CheckPrimes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",

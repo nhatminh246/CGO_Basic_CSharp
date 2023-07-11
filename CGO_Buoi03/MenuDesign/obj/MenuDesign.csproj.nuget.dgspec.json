@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\MenuDesign\\MenuDesign.csproj": {}
+    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\MenuDesign\\MenuDesign.csproj": {}
   },
   "projects": {
-    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\MenuDesign\\MenuDesign.csproj": {
+    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\MenuDesign\\MenuDesign.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\MenuDesign\\MenuDesign.csproj",
+        "projectUniqueName": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\MenuDesign\\MenuDesign.csproj",
         "projectName": "MenuDesign",
-        "projectPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\MenuDesign\\MenuDesign.csproj",
+        "projectPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\MenuDesign\\MenuDesign.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\MenuDesign\\obj\\",
+        "outputPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\MenuDesign\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
