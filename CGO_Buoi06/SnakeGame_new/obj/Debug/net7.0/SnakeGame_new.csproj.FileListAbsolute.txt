@@ -1,0 +1,15 @@
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\bin\Debug\net7.0\SnakeGame_new.exe
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\bin\Debug\net7.0\SnakeGame_new.deps.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\bin\Debug\net7.0\SnakeGame_new.runtimeconfig.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\bin\Debug\net7.0\SnakeGame_new.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\bin\Debug\net7.0\SnakeGame_new.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\obj\Debug\net7.0\SnakeGame_new.csproj.AssemblyReference.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\obj\Debug\net7.0\SnakeGame_new.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\obj\Debug\net7.0\SnakeGame_new.AssemblyInfoInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\obj\Debug\net7.0\SnakeGame_new.AssemblyInfo.cs
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\obj\Debug\net7.0\SnakeGame_new.csproj.CoreCompileInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\obj\Debug\net7.0\SnakeGame_new.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\obj\Debug\net7.0\refint\SnakeGame_new.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\obj\Debug\net7.0\SnakeGame_new.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\obj\Debug\net7.0\SnakeGame_new.genruntimeconfig.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi06\SnakeGame_new\obj\Debug\net7.0\ref\SnakeGame_new.dll
