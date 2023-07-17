@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\DisplayImgs\\DisplayImgs.csproj": {}
+    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\DisplayImgs\\DisplayImgs.csproj": {}
   },
   "projects": {
-    "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\DisplayImgs\\DisplayImgs.csproj": {
+    "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\DisplayImgs\\DisplayImgs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\DisplayImgs\\DisplayImgs.csproj",
+        "projectUniqueName": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\DisplayImgs\\DisplayImgs.csproj",
         "projectName": "DisplayImgs",
-        "projectPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\DisplayImgs\\DisplayImgs.csproj",
+        "projectPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\DisplayImgs\\DisplayImgs.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\DisplayImgs\\obj\\",
+        "outputPath": "d:\\Github_Project\\CGO_Basic_CSharp\\CGO_Buoi03\\DisplayImgs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",

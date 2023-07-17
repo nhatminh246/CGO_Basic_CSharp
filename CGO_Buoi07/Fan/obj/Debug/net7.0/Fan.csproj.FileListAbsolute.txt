@@ -1,0 +1,15 @@
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\obj\Debug\net7.0\Fan.csproj.AssemblyReference.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\obj\Debug\net7.0\Fan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\obj\Debug\net7.0\Fan.AssemblyInfoInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\obj\Debug\net7.0\Fan.AssemblyInfo.cs
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\obj\Debug\net7.0\Fan.csproj.CoreCompileInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\bin\Debug\net7.0\Fan.exe
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\bin\Debug\net7.0\Fan.deps.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\bin\Debug\net7.0\Fan.runtimeconfig.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\bin\Debug\net7.0\Fan.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\bin\Debug\net7.0\Fan.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\obj\Debug\net7.0\Fan.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\obj\Debug\net7.0\refint\Fan.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\obj\Debug\net7.0\Fan.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\obj\Debug\net7.0\Fan.genruntimeconfig.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi07\Fan\obj\Debug\net7.0\ref\Fan.dll
