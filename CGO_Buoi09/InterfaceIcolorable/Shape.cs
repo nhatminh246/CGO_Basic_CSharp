@@ -1,4 +1,4 @@
-﻿namespace InterfaceIcomp_Compare
+﻿namespace InterfaceIcolorable
 {
     public class Shape
     {
@@ -41,7 +41,10 @@
         }
     }
 
-    public class Circle : Shape{
+    public class Circle : Shape,IColorable{
+        public void HowToColor(){
+            Console.WriteLine("color the face of the circle");
+        }
         private double radius = 1.0;
         public Circle(){
 
@@ -79,7 +82,10 @@
         }
 
     }
-    public class Rectangle : Shape{
+    public class Rectangle : Shape,IColorable{
+        public void HowToColor(){
+            Console.WriteLine(" Color all six sides");
+        }
         private double width  = 1, height = 1;
         public Rectangle(){}
         public Rectangle(double width, double height){
@@ -113,7 +119,10 @@
             return "A Rectangle with width "+ GetWidth() + " and length= " + GetHeight() + " ,which is a subclass of " + base.ToString();
         }
     }
-    public class Square:Rectangle{
+    public class Square:Rectangle,IColorable{
+        public static void HowToColor(){
+            Console.WriteLine(" Color all four sides");
+        }
         public Square(){}
         public Square(double side) : base(side , side){
 
@@ -147,11 +156,8 @@
 
 
   }
-  public class CompareCirclekkk : IComparer<Circle>
-{
-    public int Compare(Circle c1, Circle c2)
-    {
-        return c2.GetRadius().CompareTo(c1.GetRadius());
+  
+    public interface IColorable {
+        public void HowToColor(){}
     }
-}
 }

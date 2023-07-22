@@ -1,4 +1,4 @@
-﻿namespace InterfaceIcomp_Compare
+﻿namespace InterfaceResizeable
 {
     public class Shape
     {
@@ -41,7 +41,11 @@
         }
     }
 
-    public class Circle : Shape{
+    public class Circle : Shape,Resizeable{
+        public void Resize(double percent){
+            double newRadius = GetRadius() + GetRadius() * percent / 100;
+            SetRadius(newRadius);
+        }
         private double radius = 1.0;
         public Circle(){
 
@@ -79,7 +83,13 @@
         }
 
     }
-    public class Rectangle : Shape{
+    public class Rectangle : Shape,Resizeable{
+        public void Resize(double percent){
+            double newHeight = GetHeight() + GetHeight() * percent / 100;
+            double newWidth  = GetWidth() + GetWidth() * percent /100;
+            SetHeight(newHeight);
+            SetWidth(newWidth);
+        }
         private double width  = 1, height = 1;
         public Rectangle(){}
         public Rectangle(double width, double height){
@@ -113,7 +123,11 @@
             return "A Rectangle with width "+ GetWidth() + " and length= " + GetHeight() + " ,which is a subclass of " + base.ToString();
         }
     }
-    public class Square:Rectangle{
+    public class Square:Rectangle,Resizeable{
+        public void Resize(double percent){
+            double newSide = GetSide() + GetSide() * percent / 100;
+            SetSide(newSide);
+        }
         public Square(){}
         public Square(double side) : base(side , side){
 
@@ -131,27 +145,7 @@
             return "A Square with side= "+ GetSide()+ ", which is a subclass of " + base.ToString();
         }
     }
-     public class ComperableCircle : Circle, IComparable<ComperableCircle>
-  {
-
-    public ComperableCircle() { }
-    public ComperableCircle(double radius) : base(radius) { }
-    public ComperableCircle(double radius, string color, bool filled) : base(radius, color, filled) { }
-
-    public int CompareTo(ComperableCircle o)
-    {
-      if (GetRadius() > o.GetRadius()) return 1;
-      else if (GetRadius() < o.GetRadius()) return -1;
-      else return 1;
+    public interface Resizeable{
+        public void Resize(double percent);
     }
-
-
-  }
-  public class CompareCirclekkk : IComparer<Circle>
-{
-    public int Compare(Circle c1, Circle c2)
-    {
-        return c2.GetRadius().CompareTo(c1.GetRadius());
-    }
-}
 }

@@ -3,3 +3,13 @@ D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7
 D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\InterfaceIcolorable.AssemblyInfoInputs.cache
 D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\InterfaceIcolorable.AssemblyInfo.cs
 D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\InterfaceIcolorable.csproj.CoreCompileInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\bin\Debug\net7.0\InterfaceIcolorable.exe
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\bin\Debug\net7.0\InterfaceIcolorable.deps.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\bin\Debug\net7.0\InterfaceIcolorable.runtimeconfig.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\bin\Debug\net7.0\InterfaceIcolorable.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\bin\Debug\net7.0\InterfaceIcolorable.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\InterfaceIcolorable.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\refint\InterfaceIcolorable.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\InterfaceIcolorable.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\InterfaceIcolorable.genruntimeconfig.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\ref\InterfaceIcolorable.dll
