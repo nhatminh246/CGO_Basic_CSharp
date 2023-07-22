@@ -1,0 +1,15 @@
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\obj\Debug\net7.0\IndexOfException.csproj.AssemblyReference.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\obj\Debug\net7.0\IndexOfException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\obj\Debug\net7.0\IndexOfException.AssemblyInfoInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\obj\Debug\net7.0\IndexOfException.AssemblyInfo.cs
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\obj\Debug\net7.0\IndexOfException.csproj.CoreCompileInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\bin\Debug\net7.0\IndexOfException.exe
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\bin\Debug\net7.0\IndexOfException.deps.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\bin\Debug\net7.0\IndexOfException.runtimeconfig.json
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\bin\Debug\net7.0\IndexOfException.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\bin\Debug\net7.0\IndexOfException.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\obj\Debug\net7.0\IndexOfException.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\obj\Debug\net7.0\refint\IndexOfException.dll
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\obj\Debug\net7.0\IndexOfException.pdb
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\obj\Debug\net7.0\IndexOfException.genruntimeconfig.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi010\IndexOfException\obj\Debug\net7.0\ref\IndexOfException.dll
