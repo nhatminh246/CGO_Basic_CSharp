@@ -1,0 +1,5 @@
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\InterfaceIcolorable.csproj.AssemblyReference.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\InterfaceIcolorable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\InterfaceIcolorable.AssemblyInfoInputs.cache
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\InterfaceIcolorable.AssemblyInfo.cs
+D:\Github_Project\CGO_Basic_CSharp\CGO_Buoi09\InterfaceIcolorable\obj\Debug\net7.0\InterfaceIcolorable.csproj.CoreCompileInputs.cache

@@ -1,4 +1,4 @@
-﻿namespace GeoObject
+﻿namespace InterfaceIcomparable
 {
     public class Shape
     {

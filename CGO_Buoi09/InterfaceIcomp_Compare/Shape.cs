@@ -1,4 +1,4 @@
-﻿namespace GeoObject
+﻿namespace InterfaceIcomp_Compare
 {
     public class Shape
     {
